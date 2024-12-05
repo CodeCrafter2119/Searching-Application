@@ -1,4 +1,4 @@
-Searching application
+# Searching application
 
 This is a simple web-based searching application built using the Spring Framework and Spring MVC. The application demonstrates the use of the RedirectView concept to handle redirections effectively.
 Features:
